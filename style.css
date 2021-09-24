@@ -1,1 +1,110 @@
+body{
+    text-align: center;
+}
 
+header{
+    display: block;
+    margin:auto;
+    width: 901px;
+    text-align: left;
+    border: thin solid black;
+}
+
+#blogLogo{
+    display: inline-block;
+}
+
+#slogan{
+    display: inline-block;
+    border: thin solid black;
+}
+
+#smIconsLeft{
+    display: inline-block;
+
+}
+
+#rssEmail {
+    display: inline-block;
+}
+
+#allIcons {
+    vertical-align: bottom;
+    float:right;
+    border: thin solid black;
+}
+
+#blogLogo h2{
+    font-family:cursive;
+    font-size: 2.5em ;
+}
+
+#blogLogo h3{
+    font-size: .8em;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grayDivider{
+    display: block;
+    background-image:url("/chocolate-pizza-1/images/hr-img.png");
+    background-repeat: repeat;
+    width: 901px;
+    height: 15px;
+
+    margin: auto;
+}
+
+#mainHead{
+    display: block;
+    margin:auto;
+    width: 901px;
+    text-align: left;
+    border: thin solid black;
+}
+
+#title{
+    display: inline-block;
+    text-align: left;
+}
+
+.print{
+    display: inline-block;
+}
+
+#print{
+    float:right;
+}
+
+.pictureText{
+    margin: 10px 0px;
+    text-indent: 25px;
+}
+
+#pictureText{
+    display: block;
+    margin:auto;
+    width: 901px;
+    text-align: left;
+}
+
+#ingredientsList{
+    background-image:url("/chocolate-pizza-1/images/list-bg.png") ;
+    width: 901px;
+    height: 305px;
+    display: block;
+    margin:auto;
+    width: 901px;
+}
+
+leftList{
+    display: inline-block;
+    height: 400px;
+    width: 150px;
+}
+
+rightList{
+    display: inline-block;
+    height: 400px;
+    width: 150px;
+}
